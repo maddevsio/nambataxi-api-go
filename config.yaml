@@ -1,0 +1,5 @@
+partner_id: 13 #this is test partner
+server_token: 3EljmdMx76NyFWuR8cIZhrSCeyDJwHgE #this is test server token
+url: https://partners.staging.swift.kg/api
+version: v1
+bot_debug: true
